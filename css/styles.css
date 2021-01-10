@@ -104,6 +104,12 @@ hr {
   margin: auto;
   padding-top: 5vh;
 }
+.thick-blue-border {
+  border-color: #295252;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+}
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
