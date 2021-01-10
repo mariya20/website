@@ -100,8 +100,9 @@ hr {
 }
 
 .intro {
-  width: 50%;
+  width: 75%;
   margin: auto;
+  padding-top: 5vh;
 }
 .contact-message {
   width: 40%;
